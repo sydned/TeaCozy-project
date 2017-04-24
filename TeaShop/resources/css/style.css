@@ -32,10 +32,8 @@ opacity:0.9;
 .nav {
   /**menu specs**/
   display:flex;
-  width: 75%;
+  padding-left: 670px;
   color: seashell;
-  padding-left: 730px;
-  padding-top: 20px;
   height: auto;
 }
 .nav li {
